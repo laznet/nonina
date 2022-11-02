@@ -1,0 +1,13 @@
+- title: Inicio
+  href: index.html
+
+- title: Sobre nosotros
+  href: about.html
+
+- title: Publicaciones
+  href: list/posts.html
+
+- title: Documentacion
+  href: list/projects.html
+
+
